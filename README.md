@@ -1,8 +1,8 @@
-### Welcome to my profile, Syanne karoline here👋
+### Bem-vindo(a) ao meu perfil do gitHub, Syanne karoline aqui👋
 
 - 💻📚 Estudante de ciência da computação - UFPA
 - 🌱 Melhorando minhas habilidades em programação.
-- 🧠 Em processo de aprimoramento...
+- 🧠 Em processo de aprimoramento...não me julguem.
 
 <div align="center">
   <a href="https://github.com/syannekaroline">
