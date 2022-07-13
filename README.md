@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu perfil do gitHub, Syanne karoline aqui👋
 
-- 💻📚 Estudante de ciência da computação - UFPA - 1/8
+- 💻📚 Estudante de ciência da computação - UFPA - 2/8
 - 🌱 Melhorando minhas habilidades em programação.
 - 🧠 Em processo de aprimoramento...não me julguem.
 
