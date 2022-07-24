@@ -2,7 +2,7 @@
 
 - 💻📚 Estudante de ciência da computação - UFPA - 2/8.
 - 🌱 Melhorando minhas habilidades em programação.
-- ⏲️ Futura atuante na àrea de IHC.
+- ⏲️ Futura atuante na área de IHC.
   
 <div align="center">
  <a href="https://github.com/syannekaroline">
