@@ -5,11 +5,11 @@
 - ⏲️ Futura atuante na área de IHC.
   
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syannekaroline&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=1c1131&text_color=A9FEF7&title_color=FE428E&icon_color=CDB33F"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syannekaroline&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=1c1131&text_color=A9FEF7&title_color=FE428E&icon_color=CDB33F"/>
 </div>
 
 <div align="center">
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syannekaroline&layout=compact&langs_count=7&theme=synthwave&bg_color=1c1131&text_color=A9FEF7&title_color=FE428E&icon_color=CDB33F"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syannekaroline&layout=compact&langs_count=7&theme=react&bg_color=1c1131&text_color=A9FEF7&title_color=FE428E&icon_color=CDB33F"/>
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/dd9a516e431197ed913a4819155f94fe.gif" width="165" height="165" border="0" alt="https://picasion.com/" /></</a>
 </div>
 
