@@ -2,6 +2,7 @@
 
 - 💻📚 Estudante de ciência da computação - UFPA - 3/8.
 - 🌱 Melhorando minhas habilidades em programação.
+- 👩‍💻 Ganhando experiência em Low-Code - Outsystems.
 - ⏲️ Futura atuante na área de IHC.
   
 <div align="center">
